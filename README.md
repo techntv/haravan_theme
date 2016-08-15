@@ -18,7 +18,7 @@ This gem works with OS X or Windows with Ruby 1.9.
 First time installing Ruby on Windows? Try [Rubyinstaller](http://rubyinstaller.org) .
 
 	All Programs -> Ruby 2.2.5 -> Start Command Prompt with Ruby
-	
+	C:\Users\lublue>chcp 850
 	C:\Users\lublue>gem install haravan_theme
 
 
