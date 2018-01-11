@@ -17,16 +17,16 @@ This gem works with OS X or Windows with Ruby 1.9.
 ## Install haravan_theme on Windows:
 First time installing Ruby on Windows? Try [Rubyinstaller](http://rubyinstaller.org) .
 
-  Run rubyinstaller-2.5.0-1-x64.exe
-  Which components shall be installed? If unsure press ENTER [1,2,3] 1
-  Which components shall be installed? If unsure press ENTER [1,2,3] 3
-  Which components shall be installed? If unsure press ENTER [1,2,3] 2
-  Which components shall be installed? If unsure press ENTER [1,2,3] Enter
+	Run rubyinstaller-2.5.0-1-x64.exe
+	Which components shall be installed? If unsure press ENTER [1,2,3] 1
+	Which components shall be installed? If unsure press ENTER [1,2,3] 3
+	Which components shall be installed? If unsure press ENTER [1,2,3] 2
+	Which components shall be installed? If unsure press ENTER [1,2,3] Enter
 
 
-  All Programs -> Ruby 2.5.0 -> Start Command Prompt with Ruby
-  C:\Users\lublue>chcp 65001
-  C:\Users\lublue>gem install haravan_theme
+	All Programs -> Ruby 2.5.0 -> Start Command Prompt with Ruby
+	C:\Users\lublue>chcp 65001
+	C:\Users\lublue>gem install haravan_theme
 
 
 ## Configuration
