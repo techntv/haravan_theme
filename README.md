@@ -95,6 +95,8 @@ Specifies which files should be explicitly ignored and not affected by any comma
 
 `theme download`
 
+(For MacOS use: $sudo theme download)
+
 Downloads the theme files from your store to your computer.
 
 `theme upload path/to/file`
